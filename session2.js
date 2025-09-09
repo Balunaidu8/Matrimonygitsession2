@@ -1,3 +1,1 @@
-console.log("welcome");
-sessiion = "tecchnical";
-console.log(sessiion);
+name = "matrimony";
